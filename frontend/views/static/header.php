@@ -8,7 +8,7 @@
                             <div class="row rs-vertical-middle">
                                 <div class="col-lg-1">
                                     <div class="logo-part" class="float-left">
-                                        <a href="index.html" ><img src="assets/images/logo.png" alt=""></a>
+                                        <a href="index.html" ><img src="/assets/images/logo.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-10 text-center pt-4">
@@ -16,7 +16,7 @@
                                 </div>
                                 <div class="col-lg-1">
                                     <div class="logo-part">
-                                        <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+                                        <a href="index.html"><img src="/assets/images/logo.png" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -29,14 +29,14 @@
                         <div class="container">
                             <div class="logo-area">
                                 <a href="index.html">
-                                    <img class="sticky-logo" src="assets/images/logo.png" alt="logo">
+                                    <img class="sticky-logo" src="/assets/images/logo.png" alt="logo">
                                 </a>
                             </div>
                             <div class="rs-menu-area">
                                 <div class="main-menu">
                                     <div class="mobile-menu">
                                         <a href="index.html" class="mobile-logo">
-                                            <img src="assets/images/logo.png" alt="logo">
+                                            <img src="/assets/images/logo.png" alt="logo">
                                         </a>
                                         <a href="#" class="rs-menu-toggle rs-menu-toggle-close">
                                             <i class="fa fa-bars"></i>

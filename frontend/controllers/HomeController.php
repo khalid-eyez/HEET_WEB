@@ -26,5 +26,9 @@ class HomeController extends Controller
     {
         return $this->render('index');
     }
+    public function actionGallery()
+    {
+        return $this->render('gallery');
+    }
 
 }
