@@ -30,5 +30,9 @@ class HomeController extends Controller
     {
         return $this->render('gallery');
     }
+    public function actionAbout()
+    {
+        return $this->render('about');
+    }
 
 }

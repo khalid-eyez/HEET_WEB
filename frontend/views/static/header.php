@@ -78,7 +78,7 @@
                                                        <a href="our-team.html">Press Releases</a>
                                                     </li> 
                                                     <li>
-                                                       <a href="single-team.html">Events & Photo Gallery</a>
+                                                       <a href="/home/gallery">Events & Photo Gallery</a>
                                                     </li>
                                            
                     
