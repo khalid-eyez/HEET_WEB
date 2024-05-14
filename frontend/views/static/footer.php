@@ -41,7 +41,7 @@
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc">Dodoma, Iyumba, UDOM</div>
+                                    <div class="desc">Dodoma, Iyumbu, UDOM</div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
