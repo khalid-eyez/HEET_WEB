@@ -48,12 +48,12 @@
                                             
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="about.html">About</a>
+                                                <a href="/home/about">About</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="software-development.html">HEET - UDOM</a> </li>
+                                                    <li><a href="/home/about">HEET - UDOM</a> </li>
                                                     <li><a href="web-development.html">Overview & Objective</a> </li>
                                                     <li><a href="analytic-solutions.html">Project Documents</a> </li>
-                                                    <li><a href="cloud-and-devops.html">Project Management & Team</a></li>
+                                                    <li><a href="/home/about">Project Management & Team</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">

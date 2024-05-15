@@ -32,9 +32,7 @@
                 <a href="#popup_1" class="xs-single-portfolio-item xs-image-popup" data-effect="mfp-zoom-in">
                     <img src="/assets/images/image1.jpeg" alt="">
                     <div class="single-project-content">
-                        <div class="xs-image-popup-icon">
-                            <i class="icon icon-plus"></i>
-                        </div>
+                    
                         <h3 class="xs-single-title">Phasellus non</h3>
                         <p>
                         Fusce ut magna nec est dapibus vehicula sed non justo. Fusce vel ante aliquam, imperdiet.
@@ -48,9 +46,7 @@
                 <a href="#popup_2" class="xs-single-portfolio-item xs-image-popup"  data-effect="mfp-zoom-in">
                     <img src="/assets/images/image2.png" alt="">
                     <div class="single-project-content">
-                        <div class="xs-image-popup-icon">
-                            <i class="icon icon-plus"></i>
-                        </div>
+                      
                         <h3 class="xs-single-title">Phasellus non</h3>
                         <p>
                         Fusce ut magna nec est dapibus vehicula sed non justo. Fusce vel ante aliquam, imperdiet.
@@ -64,9 +60,7 @@
                 <a href="#popup_3" class="xs-single-portfolio-item xs-image-popup"  data-effect="mfp-zoom-in">
                     <img src="/assets/images/image3.jpeg" alt="">
                     <div class="single-project-content">
-                        <div class="xs-image-popup-icon">
-                            <i class="icon icon-plus"></i>
-                        </div>
+                      
                         <h3 class="xs-single-title">Phasellus non</h3>
                         <p>
                         Fusce ut magna nec est dapibus vehicula sed non justo. Fusce vel ante aliquam, imperdiet.
@@ -79,9 +73,7 @@
                 <a href="#popup_4" class="xs-single-portfolio-item xs-image-popup" data-effect="mfp-zoom-in">
                     <img src="/assets/images/image4.jpeg" alt="">
                     <div class="single-project-content">
-                        <div class="xs-image-popup-icon">
-                            <i class="icon icon-plus"></i>
-                        </div>
+                     
                         <h3 class="xs-single-title">Phasellus non</h3>
                         <p>
                         Fusce ut magna nec est dapibus vehicula sed non justo. Fusce vel ante aliquam, imperdiet.

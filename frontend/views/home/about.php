@@ -8,8 +8,8 @@
                 <div class="breadcrumbs-inner text-center">
                     <h1 class="page-title">About</h1>
                     <ul>
-                        <li title="Braintech - IT Solutions and Technology Startup HTML Template">
-                            <a class="active" href="index.html">Home</a>
+                        <li title="Homepage">
+                            <a class="active" href="/">Home</a>
                         </li>
                         <li>About</li>
                     </ul>
@@ -69,11 +69,11 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/1.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Makhaia Antitni</a></h4>
+                                    <h4 class="person-name"><a href="single-team.html">Dr. Mustaffa</a></h4>
                                     <span class="designation">President & CEO</span>
                                     <ul class="team-social">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -86,7 +86,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/2.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -103,12 +103,12 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/3.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
                                     <h4 class="person-name"><a href="single-team.html">Masud Rana</a></h4>
-                                    <span class="designation">Web Developer</span>
+                                    <span class="designation">Chairperson</span>
                                     <ul class="team-social">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -120,7 +120,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/4.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -137,12 +137,12 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/5.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
                                     <h4 class="person-name"><a href="single-team.html">Rushali Rumi</a></h4>
-                                    <span class="designation">Design Lead</span>
+                                    <span class="designation">Accountant</span>
                                     <ul class="team-social">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -154,12 +154,12 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/6.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Abu Sayed</a></h4>
-                                    <span class="designation">App Developer</span>
+                                    <h4 class="person-name"><a href="single-team.html">Mr Isaac</a></h4>
+                                    <span class="designation">Manager</span>
                                     <ul class="team-social">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -171,11 +171,11 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/7.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Sonia Akhter</a></h4>
+                                    <h4 class="person-name"><a href="single-team.html">Mr Khalid</a></h4>
                                     <span class="designation">Graphic Artist</span>
                                     <ul class="team-social">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -188,97 +188,12 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/8.jpg" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Rayhan Ali</a></h4>
+                                    <h4 class="person-name"><a href="single-team.html">Mr Ona Nixon Kowero</a></h4>
                                     <span class="designation">CEO & Founder</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/9.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Benjir Akther</a></h4>
-                                    <span class="designation">Graphic Designer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/1.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Makhaia Antitni</a></h4>
-                                    <span class="designation">President & CEO</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/2.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Corey Anderson</a></h4>
-                                    <span class="designation">CEO & Founder</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/3.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Masud Rana</a></h4>
-                                    <span class="designation">Web Developer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.html"><img src="assets/images/team/style1/4.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.html">Najmul Huda</a></h4>
-                                    <span class="designation">Digital Marketer</span>
                                     <ul class="team-social">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
