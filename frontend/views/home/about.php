@@ -24,10 +24,10 @@
                         <div class="col-lg-6 md-mb-30">
                             <div class="rs-animation-shape">
                                 <div class="images">
-                                   <img src="/assets/images/about/image2.png" alt=""> 
+                                   <img src="/assets2/images/about/image2.png" alt=""> 
                                 </div>
                                 <div class="middle-image2">
-                                   <img class="dance3" src="assets/images/about/effect-1.png" alt=""> 
+                                   <img class="dance3" src="assets2/images/about/effect-1.png" alt=""> 
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@
                         </div>
                     </div>
                     <div class="shape-image">
-                        <img class="top dance" src="assets/images/about/dotted-3.png" alt="">
+                        <img class="top dance" src="assets2/images/about/dotted-3.png" alt="">
                     </div>
                 </div>
             </div>
@@ -69,7 +69,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -86,7 +86,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -103,7 +103,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -120,7 +120,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -137,7 +137,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -154,7 +154,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -171,7 +171,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -188,7 +188,7 @@
                             <div class="team-item-wrap">
                                 <div class="team-wrap">
                                     <div class="image-inner">
-                                        <a href="single-team.html"><img src="/assets/images/team/style1/user.png" alt=""></a>
+                                        <a href="single-team.html"><img src="/assets2/images/team/style1/user.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
@@ -224,35 +224,35 @@
 
 
          <!-- modernizr js -->
-        <script src="/assets/js/modernizr-2.8.3.min.js"></script>
+        <script src="/assets2/js/modernizr-2.8.3.min.js"></script>
         <!-- jquery latest version -->
-        <script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets2/js/jquery.min.js"></script>
         <!-- Bootstrap v4.4.1 js -->
-        <script src="/assets/js/bootstrap.min.js"></script>
+        <script src="/assets2/js/bootstrap.min.js"></script>
         <!-- Menu js -->
-        <script src="/assets/js/rsmenu-main.js"></script> 
+        <script src="/assets2/js/rsmenu-main.js"></script> 
         <!-- op nav js -->
-        <script src="/assets/js/jquery.nav.js"></script>
+        <script src="/assets2/js/jquery.nav.js"></script>
         <!-- owl.carousel js -->
-        <script src="/assets/js/owl.carousel.min.js"></script>
+        <script src="/assets2/js/owl.carousel.min.js"></script>
         <!-- wow js -->
-        <script src="/assets/js/wow.min.js"></script>
+        <script src="/assets2/js/wow.min.js"></script>
         <!-- Skill bar js -->
-        <script src="/assets/js/skill.bars.jquery.js"></script>
-        <script src="/assets/js/jquery.counterup.min.js"></script> 
+        <script src="/assets2/js/skill.bars.jquery.js"></script>
+        <script src="/assets2/js/jquery.counterup.min.js"></script> 
          <!-- counter top js -->
-        <script src="/assets/js/waypoints.min.js"></script>
+        <script src="/assets2/js/waypoints.min.js"></script>
         <!-- swiper js -->
-        <script src="/assets/js/swiper.min.js"></script>   
+        <script src="/assets2/js/swiper.min.js"></script>   
         <!-- particles js -->
-        <script src="/assets/js/particles.min.js"></script>  
+        <script src="/assets2/js/particles.min.js"></script>  
         <!-- magnific popup js -->
-        <script src="/assets/js/jquery.magnific-popup.min.js"></script>      
+        <script src="/assets2/js/jquery.magnific-popup.min.js"></script>      
         <!-- plugins js -->
-        <script src="/assets/js/plugins.js"></script>
+        <script src="/assets2/js/plugins.js"></script>
         <!-- pointer js -->
-        <script src="/assets/js/pointer.js"></script>
+        <script src="/assets2/js/pointer.js"></script>
         <!-- contact form js -->
-        <script src="/assets/js/contact.form.js"></script>
+        <script src="/assets2/js/contact.form.js"></script>
         <!-- main js -->
-        <script src="/assets/js/main.js"></script>
+        <script src="/assets2/js/main.js"></script>

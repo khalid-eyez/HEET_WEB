@@ -5,7 +5,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
                             <div class="footer-logo mb-30">
-                                <a href="index.html"><img src="/assets/images/logo.png" alt=""></a>
+                                <a href="index.html"><img src="/assets2/images/logo.png" alt=""></a>
                             </div>
                               <div class="textwidget pb-30"><p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>
                               </div>

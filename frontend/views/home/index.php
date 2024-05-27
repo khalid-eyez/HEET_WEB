@@ -24,7 +24,7 @@
                         <div class="col-lg-5 col-md-12 md-mb-50">
                             <div class="rs-animation-shape">
                                 <div class="pattern">
-                                   <img src="assets/images/about/main-home/image3.JPEG" alt=""> 
+                                   <img src="assets2/images/about/main-home/image3.JPEG" alt=""> 
                                 </div>
                                 <div class="middle">
                                     <!--<img class="dance" src="assets/images/about/main-home/image4.JPEG" alt="">-->
@@ -79,7 +79,7 @@
                     <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-single.html"><img src="assets/images/project/main-home/im2.jpeg" alt="images"></a>
+                                <a href="case-studies-single.html"><img src="assets2/images/project/main-home/im2.jpeg" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="case-studies-single.html">Sed sodales</a></h3>
@@ -88,7 +88,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-single.html"><img src="assets/images/project/main-home/im.webp" alt="images"></a>
+                                <a href="case-studies-single.html"><img src="assets2/images/project/main-home/im.webp" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="case-studies-single.html">Donec molestie</a></h3>
@@ -97,7 +97,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-single.html"><img src="assets/images/project/main-home/im1.jpg" alt="images"></a>
+                                <a href="case-studies-single.html"><img src="assets2/images/project/main-home/im1.jpg" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="case-studies-single.html">Nam mollis.</a></h3>
@@ -106,7 +106,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-style1"><img src="assets/images/project/main-home/im2.jpeg" alt="images"></a>
+                                <a href="case-studies-style1"><img src="assets2/images/project/main-home/im2.jpeg" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="case-studies-single.html">Ut est</a></h3>
@@ -115,7 +115,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-single.html"><img src="assets/images/project/main-home/im1.jpg" alt="images"></a>
+                                <a href="case-studies-single.html"><img src="assets2/images/project/main-home/im1.jpg" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="case-studies-single.html">Sed in</a></h3>
@@ -124,7 +124,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-img">
-                                <a href="case-studies-style1"><img src="assets/images/project/main-home/im.webp" alt="images"></a>
+                                <a href="case-studies-style1"><img src="assets2/images/project/main-home/im.webp" alt="images"></a>
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="case-studies-single.html">Integer elementum</a></h3>
@@ -167,39 +167,39 @@
         <!-- Search Modal End -->
 
          <!-- modernizr js -->
-        <script src="assets/js/modernizr-2.8.3.min.js"></script>
+        <script src="assets2/js/modernizr-2.8.3.min.js"></script>
         <!-- jquery latest version -->
-        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets2/js/jquery.min.js"></script>
         <!-- Bootstrap v4.4.1 js -->
-        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets2/js/bootstrap.min.js"></script>
         <!-- Menu js -->
-        <script src="assets/js/rsmenu-main.js"></script> 
+        <script src="assets2/js/rsmenu-main.js"></script> 
         <!-- op nav js -->
-        <script src="assets/js/jquery.nav.js"></script>
+        <script src="assets2/js/jquery.nav.js"></script>
         <!-- owl.carousel js -->
-        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="assets2/js/owl.carousel.min.js"></script>
         <!-- wow js -->
-        <script src="assets/js/wow.min.js"></script>
+        <script src="assets2/js/wow.min.js"></script>
         <!-- Skill bar js -->
-        <script src="assets/js/skill.bars.jquery.js"></script>
-        <script src="assets/js/jquery.counterup.min.js"></script> 
+        <script src="assets2/js/skill.bars.jquery.js"></script>
+        <script src="assets2/js/jquery.counterup.min.js"></script> 
          <!-- counter top js -->
-        <script src="assets/js/waypoints.min.js"></script>
+        <script src="assets2/js/waypoints.min.js"></script>
         <!-- swiper js -->
-        <script src="assets/js/swiper.min.js"></script>   
+        <script src="assets2/js/swiper.min.js"></script>   
         <!-- particles js -->
-        <script src="assets/js/particles.min.js"></script>  
+        <script src="assets2/js/particles.min.js"></script>  
         <!-- magnific popup js -->
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>      
+        <script src="assets2/js/jquery.magnific-popup.min.js"></script>      
         <!-- plugins js -->
-        <script src="assets/js/plugins.js"></script>
+        <script src="assets2/js/plugins.js"></script>
         <!-- pointer js -->
-        <script src="assets/js/pointer.js"></script>
+        <script src="assets2/js/pointer.js"></script>
         <!-- contact form js -->
-        <script src="assets/js/contact.form.js"></script>
+        <script src="assets2/js/contact.form.js"></script>
         <!-- appointment form js -->
-        <script src="assets/js/appointment.form.js"></script>
+        <script src="assets2/js/appointment.form.js"></script>
         <!-- main js -->
-        <script src="assets/js/main.js"></script>
+        <script src="assets2/js/main.js"></script>
     </body>
 </html>
